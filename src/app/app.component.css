@@ -4,4 +4,8 @@
 .box {
 	display: flex;
 	padding: 10px;
+	border: 2.25px solid darkslategray;
+	border-radius: 22px;
+
 }
+
